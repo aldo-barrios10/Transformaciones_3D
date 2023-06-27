@@ -10,7 +10,7 @@ Los algoritmos están diseñados con Python 3.10, por lo que, para evitar proble
 </div>
 
 ## índice
-- Transformaciones_3D.py: Transformaciones y gráfica 3D.
+- Transformaciones_3D: Transformaciones y gráfica 3D.
 - Transformaciones_Grafica_Individual: Transformaciones 2D con gráfica para cada transformación.
 - Transformaciones_Grafica_unica: Transformaciones 2D con una sola gáfica para comparación.
 - Codigos_unico_script: Un solo archivo para cada algoritmo.
